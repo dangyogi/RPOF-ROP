@@ -10,7 +10,9 @@ A. *Form of Party Loyalty Oath*
    Republican Executive Committee and State Republican Executive Committee member must sign
    and file an oath of party loyalty in the following form:
 
-       *I swear or affirm that during my term of party office I will not
+       *I swear or affirm that during my term of party office I will abide by
+       the Constitution, Rules of Procedure, and County Model
+       Constitution of the Republican Party of Florida, and will not
        actively, publicly, or financially support the election of any
        candidate:*
 

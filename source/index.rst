@@ -6,7 +6,15 @@
 RPOF Party Rules of Procedure
 =============================
 
-As revised by the State Executive Board on May 4, 2024
+As approved by the State Executive Committee on January 11, 2025
+And revised by the State Executive Board on January 11, 2025
+
+.. admonition:: Changes
+
+   * Rule 9: added to loyalty oath:
+       I will abide by the Constitution, Rules of Procedure,
+       and County Model Constitution of the Republican Party of Florida
+   * Rule 16: Amendment markup removed, no change in final text
 
 .. Add your content using ``reStructuredText`` syntax. See the
    `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
